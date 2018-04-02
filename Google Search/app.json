@@ -1,0 +1,7 @@
+{
+  "name": "Google Search API webhook",
+  "description": "API.AI webhook for google search query",
+  "repository": "https://github.com/pavanonator/google-search-webhook",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
